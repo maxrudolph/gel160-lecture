@@ -1,0 +1,18 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - cython
+  - numpy
+  - matplotlib
+  - cartopy
+  - netcdf4
+  - gdal
+  - scikit-learn
+  - rasterio
+  - scikit-image
+  - geopyspark
+  - tqdm
+  - xlrd
+  - pyproj
+  - utm
